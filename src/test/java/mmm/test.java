@@ -13,7 +13,7 @@ public class test {
 		firstterm=secondterm;
 		secondterm=nextterm;
 		
-		System.out.println("heloooooo");
+		System.out.println("jj");
 
 	}
 
