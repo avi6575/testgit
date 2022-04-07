@@ -12,6 +12,8 @@ public class test {
 	 	int nextterm=firstterm+secondterm;
 		firstterm=secondterm;
 		secondterm=nextterm;
+		
+		System.out.println("heloooooo");
 
 	}
 
